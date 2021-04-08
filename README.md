@@ -17,3 +17,6 @@ Those examples were also given in R, but there have been several translations to
 
 4. The [numpyro examples](https://readthedocs.org/projects/numpyro/downloads/pdf/stable/) and [numpyro documentatonn](http://num.pyro.ai/en/stable/index.html) 
 
+5. A [toward data science](https://towardsdatascience.com/bayesian-generalized-linear-models-with-pyro-b80bc08d7b75) article worth reading!
+   This article is _Bayesian Generalized Linear Models With Pyro_, and looks at the process of making a guide and a model on the housing 
+   price data set. Very well structured and step-by-step
